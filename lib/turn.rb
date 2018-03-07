@@ -10,5 +10,5 @@ def input_to_index(user_input)
   user_input.to_i - 1 
 end 
 
-def valid_move?
+def valid_move?(board, index)
 end 
