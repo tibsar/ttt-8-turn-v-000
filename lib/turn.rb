@@ -18,5 +18,5 @@ def move(board, index, player)
   board[index] = player 
 end 
 
-def turn 
+def turn(board)
 end 
