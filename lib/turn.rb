@@ -27,5 +27,5 @@ def turn(board)
     index = input_to_index(input)
   end 
   
-  mob
+  move(board, index, "X")
 end 
